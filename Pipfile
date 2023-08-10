@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+youtube-dl = "*"
+blessed = "*"
+python-mpd2 = "*"
+pixcat = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
